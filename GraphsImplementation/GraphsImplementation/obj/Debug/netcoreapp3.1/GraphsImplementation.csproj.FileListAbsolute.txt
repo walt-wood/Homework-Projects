@@ -1,0 +1,27 @@
+C:\Users\Walt\OneDrive\Desktop\School\Algorithms\Homework\GraphsImplementation\GraphsImplementation\bin\Debug\netcoreapp3.1\GraphsImplementation.exe
+C:\Users\Walt\OneDrive\Desktop\School\Algorithms\Homework\GraphsImplementation\GraphsImplementation\bin\Debug\netcoreapp3.1\GraphsImplementation.deps.json
+C:\Users\Walt\OneDrive\Desktop\School\Algorithms\Homework\GraphsImplementation\GraphsImplementation\bin\Debug\netcoreapp3.1\GraphsImplementation.runtimeconfig.json
+C:\Users\Walt\OneDrive\Desktop\School\Algorithms\Homework\GraphsImplementation\GraphsImplementation\bin\Debug\netcoreapp3.1\GraphsImplementation.runtimeconfig.dev.json
+C:\Users\Walt\OneDrive\Desktop\School\Algorithms\Homework\GraphsImplementation\GraphsImplementation\bin\Debug\netcoreapp3.1\GraphsImplementation.dll
+C:\Users\Walt\OneDrive\Desktop\School\Algorithms\Homework\GraphsImplementation\GraphsImplementation\bin\Debug\netcoreapp3.1\GraphsImplementation.pdb
+C:\Users\Walt\OneDrive\Desktop\School\Algorithms\Homework\GraphsImplementation\GraphsImplementation\obj\Debug\netcoreapp3.1\GraphsImplementation.csprojAssemblyReference.cache
+C:\Users\Walt\OneDrive\Desktop\School\Algorithms\Homework\GraphsImplementation\GraphsImplementation\obj\Debug\netcoreapp3.1\GraphsImplementation.AssemblyInfoInputs.cache
+C:\Users\Walt\OneDrive\Desktop\School\Algorithms\Homework\GraphsImplementation\GraphsImplementation\obj\Debug\netcoreapp3.1\GraphsImplementation.AssemblyInfo.cs
+C:\Users\Walt\OneDrive\Desktop\School\Algorithms\Homework\GraphsImplementation\GraphsImplementation\obj\Debug\netcoreapp3.1\GraphsImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Walt\OneDrive\Desktop\School\Algorithms\Homework\GraphsImplementation\GraphsImplementation\obj\Debug\netcoreapp3.1\GraphsImplementation.dll
+C:\Users\Walt\OneDrive\Desktop\School\Algorithms\Homework\GraphsImplementation\GraphsImplementation\obj\Debug\netcoreapp3.1\GraphsImplementation.pdb
+C:\Users\Walt\OneDrive\Desktop\School\Algorithms\Homework\GraphsImplementation\GraphsImplementation\obj\Debug\netcoreapp3.1\GraphsImplementation.genruntimeconfig.cache
+C:\Users\Walt\OneDrive\Desktop\School\Old Classes\Algorithms\Homework\GraphsImplementation\GraphsImplementation\bin\Debug\netcoreapp3.1\GraphsImplementation.exe
+C:\Users\Walt\OneDrive\Desktop\School\Old Classes\Algorithms\Homework\GraphsImplementation\GraphsImplementation\bin\Debug\netcoreapp3.1\GraphsImplementation.deps.json
+C:\Users\Walt\OneDrive\Desktop\School\Old Classes\Algorithms\Homework\GraphsImplementation\GraphsImplementation\bin\Debug\netcoreapp3.1\GraphsImplementation.runtimeconfig.json
+C:\Users\Walt\OneDrive\Desktop\School\Old Classes\Algorithms\Homework\GraphsImplementation\GraphsImplementation\bin\Debug\netcoreapp3.1\GraphsImplementation.runtimeconfig.dev.json
+C:\Users\Walt\OneDrive\Desktop\School\Old Classes\Algorithms\Homework\GraphsImplementation\GraphsImplementation\bin\Debug\netcoreapp3.1\GraphsImplementation.dll
+C:\Users\Walt\OneDrive\Desktop\School\Old Classes\Algorithms\Homework\GraphsImplementation\GraphsImplementation\bin\Debug\netcoreapp3.1\GraphsImplementation.pdb
+C:\Users\Walt\OneDrive\Desktop\School\Old Classes\Algorithms\Homework\GraphsImplementation\GraphsImplementation\obj\Debug\netcoreapp3.1\GraphsImplementation.AssemblyInfoInputs.cache
+C:\Users\Walt\OneDrive\Desktop\School\Old Classes\Algorithms\Homework\GraphsImplementation\GraphsImplementation\obj\Debug\netcoreapp3.1\GraphsImplementation.AssemblyInfo.cs
+C:\Users\Walt\OneDrive\Desktop\School\Old Classes\Algorithms\Homework\GraphsImplementation\GraphsImplementation\obj\Debug\netcoreapp3.1\GraphsImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Walt\OneDrive\Desktop\School\Old Classes\Algorithms\Homework\GraphsImplementation\GraphsImplementation\obj\Debug\netcoreapp3.1\GraphsImplementation.dll
+C:\Users\Walt\OneDrive\Desktop\School\Old Classes\Algorithms\Homework\GraphsImplementation\GraphsImplementation\obj\Debug\netcoreapp3.1\GraphsImplementation.pdb
+C:\Users\Walt\OneDrive\Desktop\School\Old Classes\Algorithms\Homework\GraphsImplementation\GraphsImplementation\obj\Debug\netcoreapp3.1\GraphsImplementation.genruntimeconfig.cache
+C:\Users\Walt\OneDrive\Desktop\School\Old Classes\Algorithms\Homework\GraphsImplementation\GraphsImplementation\obj\Debug\netcoreapp3.1\GraphsImplementation.csproj.AssemblyReference.cache
+C:\Users\Walt\OneDrive\Desktop\School\Old Classes\Algorithms\Homework\GraphsImplementation\GraphsImplementation\obj\Debug\netcoreapp3.1\GraphsImplementation.GeneratedMSBuildEditorConfig.editorconfig
