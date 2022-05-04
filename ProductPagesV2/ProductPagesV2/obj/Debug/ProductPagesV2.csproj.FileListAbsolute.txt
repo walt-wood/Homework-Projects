@@ -1,0 +1,10 @@
+C:\Users\Walt\OneDrive\Desktop\School\DatabaseTheory\Homework\ProductPagesV2\ProductPagesV2\obj\Debug\ProductPagesV2.csprojAssemblyReference.cache
+C:\Users\Walt\OneDrive\Desktop\School\DatabaseTheory\Homework\ProductPagesV2\ProductPagesV2\obj\Debug\ProductPagesV2.Properties.Resources.resources
+C:\Users\Walt\OneDrive\Desktop\School\DatabaseTheory\Homework\ProductPagesV2\ProductPagesV2\obj\Debug\ProductPagesV2.csproj.GenerateResource.cache
+C:\Users\Walt\OneDrive\Desktop\School\DatabaseTheory\Homework\ProductPagesV2\ProductPagesV2\obj\Debug\ProductPagesV2.csproj.CoreCompileInputs.cache
+C:\Users\Walt\OneDrive\Desktop\School\DatabaseTheory\Homework\ProductPagesV2\ProductPagesV2\bin\Debug\ProductPagesV2.exe.config
+C:\Users\Walt\OneDrive\Desktop\School\DatabaseTheory\Homework\ProductPagesV2\ProductPagesV2\bin\Debug\ProductPagesV2.exe
+C:\Users\Walt\OneDrive\Desktop\School\DatabaseTheory\Homework\ProductPagesV2\ProductPagesV2\bin\Debug\ProductPagesV2.pdb
+C:\Users\Walt\OneDrive\Desktop\School\DatabaseTheory\Homework\ProductPagesV2\ProductPagesV2\obj\Debug\ProductPagesV2.exe
+C:\Users\Walt\OneDrive\Desktop\School\DatabaseTheory\Homework\ProductPagesV2\ProductPagesV2\obj\Debug\ProductPagesV2.pdb
+C:\Users\Walt\OneDrive\Desktop\School\DatabaseTheory\Homework\ProductPagesV2\ProductPagesV2\obj\Debug\ProductPagesV2.Form1.resources
